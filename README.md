@@ -1,6 +1,6 @@
 <p align="center"><img src="./crt.png"></p>
 
-🌐 https://lucianofullstack.github.io/crt-css-top20__vscode_extesions
+🌐 https://lucianofullstack.github.io/crt-css-top20_vscode_extesions
 
 ``` 
 
