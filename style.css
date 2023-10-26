@@ -152,7 +152,7 @@ a:hover {
 }
 
 .crt-bezel {
-   font-size: clamp(10px, 2.25vw, 17px);
+   font-size: clamp(10px, 2.25vw, 16px);
    line-height: 1.33333;
 }
 
