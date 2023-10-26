@@ -152,11 +152,11 @@ a:hover {
 }
 
 .crt-bezel {
-   font-size: clamp(10px, 2.25vw, 16px);
+   font-size: clamp(10px, 2.25vw, 17px);
    line-height: 1.33333;
 }
 
-@media only screen and (min-width: 980px) and (min-height:740px) {
+@media screen and (min-width: 980px) and (min-height:740px) {
    .crt-scan-area::before {
       content: " ";
       display: block;
